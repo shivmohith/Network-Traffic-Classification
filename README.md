@@ -35,7 +35,7 @@ traffic information of all the layers in the OSI model. This project classifies 
 
 1. Convert the raw Wireshark data in .pcap format into images. This was done using the code available in https://github.com/echowei/DeepTraffic/tree/master/1.malware_traffic_classification/2.PreprocessedTools(USTC-TK2016)
 The following are the example images obtained,
-![Example Image from each class](https://github.com/Shivmohith/Network-Traffic-Classification/tree/master/Images/output_images.PNG)
+![Example Image from each class](Images/output_images.PNG)
 The above images are grey scale images where each pixel value can range from 0 to 255
 
 2. Extract the histogram of the images which are considered as the image features. These images features are stored in an excel file with the class label as the last column.
