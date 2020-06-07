@@ -43,7 +43,7 @@ def label(arr):
     elif("Neris" in arr):
         return 0
     elif("Nsis-ay" in arr):
-        return 0
+        return 0    
     elif("Shifu" in arr):
         return 0
     elif("Tinba" in arr):
