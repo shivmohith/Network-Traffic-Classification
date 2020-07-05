@@ -10,6 +10,8 @@ There are 2 types of classification,
 - Classifying as benign or malware - Binary classification
 - Classifying into each class under benign and malware - Multi-class classification
 
+An accuracy of **100%** and **98%** was achieved for Binary and Multi-class classification respectively.
+
 #### Dataset
 
 The dataset used for the training is USTC-TFC2016. The dataset consists of benign traffic and malware traffic. 
